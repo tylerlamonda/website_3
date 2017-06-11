@@ -1,0 +1,10 @@
+<section>
+<h4>Image</h4>
+<div class="box alt">
+  <div class="row uniform 50%">
+    {% for post in site.posts %}
+        <dic class="4u"><span class="image fit"><img src="/images/{{ post.name }}/{{ post.img }}" alt="{{ post.alt }}"/></span></dic>
+    {% endfor %}
+  </div>
+</div>
+</section>

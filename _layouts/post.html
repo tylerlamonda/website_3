@@ -1,0 +1,39 @@
+---
+layout: default
+---
+<article id="main">
+
+  <header>
+    <h1>{{ page.title }}</h1>
+    <p>{{ page.description }}</p>
+  </header>
+
+  <section class="wrapper style5">
+    <div class="inner">
+      <section><h4>Test</h4></section>
+      {% for image_item in page.image_items %}
+        <section>
+          <h4>{{ image_item.title }}</h4>
+          {% if image_item.img  != NULL %}
+          <dic class="4u"><span class="image fit"><img src="/images/{{ page.name }}/{{ image_item.img }}" alt="{{ image_item.alt }}"/></span></dic>
+          {% endif %}
+          {% if image_item.video != NULL %}
+            <div align="center" class="embed-responsive embed-responsive-16by9">
+                <video class="embed-responsive-item" controls loop autoplay>
+                  <source src="/videos/{{ page.name }}/{{ image_item.video }}" type="video/mp4">
+                Your browser does not support the video tag.
+                </video>
+            </div>
+          {% endif %}
+          <p>{{ image_item.description }}</p>
+        </section>
+      {% endfor %}
+      {{ content }}
+    </div>
+  </section>
+  <section class="wrapper style4">
+    <div class="inner">
+    {% include portfolio_grid.html %}
+    </div>
+  </section>
+</article>
