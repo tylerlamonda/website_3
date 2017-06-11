@@ -13,7 +13,9 @@ layout: default
       <!--<section><h4></h4></section>-->
       {% for image_item in page.image_items %}
         <section>
+          {% if image_item.title != NULL %}
           <h4>{{ image_item.title }}</h4>
+          {% endif %}
           {% if image_item.img  != NULL %}
           <dic class="4u"><span class="image fit"><img src="/images/{{ page.name }}/{{ image_item.img }}" alt="{{ image_item.alt }}"/></span></dic>
           {% endif %}
