@@ -2,7 +2,7 @@
 layout: post
 title: Sledgehammer
 name: sledgehammer
-img: Creatures2.png
+img: sh_tab.png
 alt: image-alt
 description: "Their be soldiers!"
 image_items: [
@@ -99,10 +99,7 @@ image_items: [
         img: sh22.jpg,
         description: "This is a description"
     },
-    {
-        img: sh23.jpg,
-        description: "This is a description"
-    },
+
     
 ]
 ---

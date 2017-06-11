@@ -2,7 +2,7 @@
 layout: post
 title: Creatures
 name: creatures
-img: Creatures2.png
+img: creatures_tab.png
 alt: image-alt
 description: "Their be monsters!"
 image_items: [
