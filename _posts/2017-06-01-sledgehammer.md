@@ -4,12 +4,12 @@ title: Sledgehammer
 name: sledgehammer
 img: sh_tab.png
 alt: image-alt
-description: "Their be soldiers!"
+description: "There be soldiers!"
 image_items: [
     {
         title: sledgehammer,
         video: SledgeTL_V1.mp4,
-        description: "Low-Res Crowd Character Asset"
+        description: "Crowd Character Asset"
     },
     {
         img: sh1.jpg,
