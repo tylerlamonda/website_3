@@ -4,32 +4,32 @@ title: Creatures
 name: creatures
 img: creatures_tab.png
 alt: image-alt
-description: "Their be monsters!"
+description: "There be Monsters!"
 image_items: [
     {
         title: Creatures,
         img: P004_ACloseUpFinal.png,
-        description: "This is a description"
+        description: ""
     },
     {
         img: P004_AFinal.png,
-        description: "This is a description"
+        description: ""
     },
     {
         video: P004_AT5.mp4,
-        description: "This is a description"
+        description: ""
     },
     {
         img: Creatures_1.png,
-        description: "This is a description"
+        description: ""
     },
     {
         img: Creatures_2.png,
-        description: "This is a description"
+        description: ""
     },
     {
         img: P007_Fflare1WS.png,
-        description: "This is a description"
+        description: ""
     },
     
 ]
