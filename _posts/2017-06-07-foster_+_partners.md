@@ -7,9 +7,9 @@ alt: image-alt
 description: "There be architecture!"
 image_items: [
     {
-        title: foster + partners,
+        title: COMCAST INNOVATION and TECHNOLOGY CENTER,
         img: 1a.jpg,
-        description: "COMCAST INNOVATION and TECHNOLOGY CENTER"
+        description: ""
     },
     {
         img: 2a.jpg,
@@ -152,8 +152,9 @@ image_items: [
         description: ""
     },
     {
+        title: SOUTH QUAY RESIDENTAL TOWER,
         img: 1c.jpg,
-        description: "SOUTH QUAY RESIDENTAL TOWER"
+        description: ""
     },
     {
         img: 2c.jpg,

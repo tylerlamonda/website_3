@@ -1,47 +1,47 @@
 ---
 layout: post
-title: Chasing Dead Boss
+title: Chasing Dead
 name: chasing_dead_boss
 img: BossTab.png
 alt: image-alt
-description: "Their be Pink!"
+description: "There be Zombies!"
 image_items: [
     {
-        title: chasing dead boss,
+        title: chasing dead - boss,
         img: 1.jpg,
-        description: "This is a description"
+        description: ""
     },
     {
         img: 2.jpg,
-        description: "This is a description"
+        description: ""
     },
     {
         img: 3.jpg,
-        description: "This is a description"
+        description: ""
     },
     {
         img: 4.jpg,
-        description: "This is a description"
+        description: ""
     },
     {
         img: 5.jpg,
-        description: "This is a description"
+        description: ""
     },
     {
         img: Chasing Dead Screen Shot1.jpg,
-        description: "This is a description"
+        description: ""
     },
     {
         img: 6.jpg,
-        description: "This is a description"
+        description: ""
     },
     {
         img: 7.jpg,
-        description: "This is a description"
+        description: ""
     },
     {
         img: 8.jpg,
-        description: "This is a description"
+        description: ""
     },
     
 ]

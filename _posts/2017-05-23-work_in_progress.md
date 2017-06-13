@@ -9,27 +9,27 @@ image_items: [
     {
         title: work in progress,
         img: SpaceStationC10Test1.png,
-        description: "This is a description"
+        description: ""
     },
     {
         img: SpaceStationC9Test2.png,
-        description: "This is a description"
+        description: ""
     },
     {
         img: Aliens_1.png,
-        description: "This is a description"
+        description: ""
     },
     {
         img: Aliens_2.png,
-        description: "This is a description"
+        description: ""
     },
     {
         img: P007_WIP1.png,
-        description: "This is a description"
+        description: ""
     },
     {
         img: P007_WIP3.png,
-        description: "This is a description"
+        description: ""
     },
     
 ]
