@@ -8,11 +8,11 @@ description: "There be slugs!"
 image_items: [
     {
         title: best fiends,
-        video: slug_010_020.mp4,
+        video: Sequence 01_1.mp4,
         description: "Cinematic Proposal"
     },
     {
-        img: SLG_0010_BD_green_1065.jpg,
+        img: SLG_0010_process_001.jpg,
         description: ""
     },
     {
