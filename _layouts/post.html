@@ -27,6 +27,11 @@ layout: default
                 </video>
             </div>
           {% endif %}
+          {% if image_item.youtube_video != NULL %}
+            <div align"center" class="embed-responsive embed-responsive-16by9">
+            <iframe src="{{ image_item.youtube_video }}?&autoplay=1" frameborder="0" allowfullscreen autoplay></iframe>
+            </div> 
+          {% endif %}
           <p>{{ image_item.description }}</p>
         </section>
       {% endfor %}
