@@ -1,6 +1,8 @@
 ---
 layout: landing
 title: About Me
+name_var: about_me
+about_me: "This is a description about me"
 projects: [
   {
     title: "### Whiskytree: \"Bolden\" - Feature Film, Release Date Unknown",
@@ -11,6 +13,18 @@ projects: [
     description: "I have another bunch of text that, I want to write down and i want to reach the end of the page and stuff. look at me writing a bunch of stuff."
   }
 ]
+skils: "This is a descroption about my skills."
+software: [
+  3dsmax.png,
+  Mari-logo - Copy.png,
+  arnold.png,
+  softimage.png,
+  terragen.png,
+  unity.png,
+  unreal.png
+]
+education: [
+]
 ---
 <section id="banner">
   <div class="inner">
@@ -18,11 +32,63 @@ projects: [
   </div>
 </section>
 
-<section id="one" class="wrapper style5">
+<section id="one" class="wrapper style2">
   <div class="inner">
+    <h2>About Me</h2>
+    {{ page.about_me | markdownify }}
+  </div>
+</section>
+
+<section id="two" class="wrapper style5">
+  <div class="inner">
+    <h2>Projects</h2>
     {% for project in page.projects %}
       {{ project.title | markdownify }}
       {{ project.description | markdownify }}
     {% endfor %}
+  </div>
+</section>
+
+<section id="three" class="wrapper style2">
+  <div class="inner">
+    <h2>Skills</h2>
+    {{ page.skills | markdownify }}
+  </div>
+</section>
+
+<section id="four" class="wrapper style2">
+  <div class="inner">
+    <h2>Software</h2>
+    <div class="box alt">
+      <div class="row uniform 50%">
+        {% for image in page.software %}
+        <div class="3u">
+          <span class="image software">
+            <img src="/images/{{ page.name_var }}/{{ image }}" alt=""/>
+          </span>
+        </div>
+        {% endfor %}
+      </div>
+    </div>
+  </div>
+</section>
+
+<section id="fout" class="wrapper style5">
+  <div class="inner">
+    <h2>Education</h2>
+    <div class="box alt">
+      <div class="row uniform 50%">
+        <div class="6u">
+          <span class="image education">
+            <img src="/images/{{ page.name_var }}/utah.png" alt=""/>
+          </span>
+        </div>
+        <div class="6u">
+          <span class="image education">
+            <img src="/images/{{ page.name_var }}/royal college of art.png" alt=""/>
+          </span>
+        </div>
+      </div>
+    </div>
   </div>
 </section>
