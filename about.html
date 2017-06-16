@@ -3,14 +3,26 @@ layout: landing
 title: About Me
 projects: [
   {
-    title: "Whiskytree: \"Bolden\" - Feature Fil, Release Date Unknown",
-    description: "lskdjfs this is something."
+    title: "### Whiskytree: \"Bolden\" - Feature Film, Release Date Unknown",
+    description: "lskdjfs this, is something."
+  },
+  {
+    title: "### Another project: **bold** Stuff.",
+    description: "I have another bunch of text that, I want to write down and i want to reach the end of the page and stuff. look at me writing a bunch of stuff."
   }
 ]
 ---
 <section id="banner">
   <div class="inner">
     <h2>{{ page.title }}</h2>
+  </div>
+</section>
 
+<section id="one" class="wrapper style5">
+  <div class="inner">
+    {% for project in page.projects %}
+      {{ project.title | markdownify }}
+      {{ project.description | markdownify }}
+    {% endfor %}
   </div>
 </section>
