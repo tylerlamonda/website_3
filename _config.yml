@@ -7,7 +7,7 @@ description: |
   Check Out my Sweet New site.
 owner: Tyler LaMonda # or company name
 first_published: 2017 # if migrating another site, the year of your first publish
-email: your-email@domain.com
+email: tylerlamonda@gmail.com
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "tylerlamonda.com" # the base hos/tname & protocol for your site
 social:
@@ -16,7 +16,7 @@ social:
   linkedin-square: https://www.linkedin.com/in/tyler-la-monda-4471555b/
   # facebook-official: https://facebook.com/<username>
   # google-plus-square: https://plus.google.com/u/0/+<username>
-  #email: /contact/
+  email: tylerlamonda@gmail.com
   #flickr:
   #instagram:
   #youtube-square:S
