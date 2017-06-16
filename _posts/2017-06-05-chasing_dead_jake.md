@@ -12,7 +12,7 @@ image_items: [
         description: "Chasing Dead is a story-based, Sci-fi First-Person Action Shooter.You play as a marine named Jake; who is sent on a mission to retrieve any research and data left behind by the original survey team while fighting off hostile forces."
     },
     {
-        video: Jake_TransFinal2.mp4,
+        youtube_video: "https://www.youtube.com/embed/vJ7hXoXsSyU",
         description: ""
     },
     {
