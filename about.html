@@ -93,7 +93,7 @@ software: [
         {% for image in page.software %}
         <div class="3u">
           <span class="image software">
-            <img src="/images/{{ page.name_var }}/{{ image }}" alt=""/>
+            <img src="{{site.baseurl }}/images/{{ page.name_var }}/{{ image }}" alt=""/>
           </span>
         </div>
         {% endfor %}
@@ -109,12 +109,12 @@ software: [
       <div class="row uniform 50%">
         <div class="6u">
           <span class="image education">
-            <img src="/images/{{ page.name_var }}/utah.png" alt=""/>
+            <img src="{{ site.baseurl }}/images/{{ page.name_var }}/utah.png" alt=""/>
           </span>
         </div>
         <div class="6u">
           <span class="image education">
-            <img src="/images/{{ page.name_var }}/royal college of art.png" alt=""/>
+            <img src="{{ site.baseurl }}/images/{{ page.name_var }}/royal college of art.png" alt=""/>
           </span>
         </div>
       </div>

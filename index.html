@@ -20,7 +20,7 @@ reel_description: |
     {% if page.video_reel != NULL %}
       <div align="center" class="embed-responsive embed-responsive-16by9">
           <video class="embed-responsive-item" controls loop autoplay>
-            <source src="/videos/reel/{{ page.video_reel }}" type="video/mp4">
+            <source src="{{ site.baseurl }}/videos/reel/{{ page.video_reel }}" type="video/mp4">
           Your browser does not support the video tag.
           </video>
       </div>
@@ -35,7 +35,7 @@ reel_description: |
     <section class="spotlight">
       <div class="image">
         <a href="{{ site.baseurl }}{{ post.url }}">
-        <img src="/images/{{ post.name }}/{{ post.img }}" alt=""/>
+        <img src="{{ site.baseurl }}/images/{{ post.name }}/{{ post.img }}" alt=""/>
       </a>
       </div>
       <div class="content">

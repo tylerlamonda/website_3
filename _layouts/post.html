@@ -17,12 +17,12 @@ layout: default
           <h4>{{ image_item.title }}</h4>
           {% endif %}
           {% if image_item.img  != NULL %}
-          <dic class="4u"><span class="image fit"><img src="/images/{{ page.name }}/{{ image_item.img }}" alt="{{ image_item.alt }}"/></span></dic>
+          <dic class="4u"><span class="image fit"><img src="{{ site.baseurl }}/images/{{ page.name }}/{{ image_item.img }}" alt="{{ image_item.alt }}"/></span></dic>
           {% endif %}
           {% if image_item.video != NULL %}
             <div align="center" class="embed-responsive embed-responsive-16by9">
                 <video class="embed-responsive-item" controls loop autoplay>
-                  <source src="/videos/{{ page.name }}/{{ image_item.video }}" type="video/mp4">
+                  <source src="{{ site.baseurl }}/videos/{{ page.name }}/{{ image_item.video }}" type="video/mp4">
                 Your browser does not support the video tag.
                 </video>
             </div>
