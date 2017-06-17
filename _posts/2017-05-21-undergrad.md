@@ -4,7 +4,7 @@ title: Undergrad
 name: undergrad
 img: 2009-2011.png
 alt: image-alt
-description: ""
+description: "There be Salt Flats!"
 image_items: [
     {
         title: Salt Lake County Film and Media Center,
