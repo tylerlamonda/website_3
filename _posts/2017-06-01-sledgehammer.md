@@ -4,6 +4,7 @@ title: Sledgehammer
 name: sledgehammer
 img: sh_tab.png
 alt: image-alt
+date: 2016-04-25
 description: "There be soldiers!"
 image_items: [
     {

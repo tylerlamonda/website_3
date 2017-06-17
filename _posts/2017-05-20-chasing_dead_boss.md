@@ -2,6 +2,7 @@
 layout: post
 title: Chasing Dead
 name: chasing_dead_boss
+date: 2016-04-21
 img: BossTab.png
 alt: image-alt
 description: "There be Zombies!"

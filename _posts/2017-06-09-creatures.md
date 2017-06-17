@@ -4,6 +4,7 @@ title: Creatures
 name: creatures
 img: creatures_tab.png
 alt: image-alt
+date: 2016-06-21
 description: "There be Monsters!"
 image_items: [
     {

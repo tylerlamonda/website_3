@@ -2,6 +2,7 @@
 layout: post
 title: Work in Progress
 name: work_in_progress
+date: 2016-04-19
 img: WIP.png
 alt: image-alt
 description: "There be Progress!"

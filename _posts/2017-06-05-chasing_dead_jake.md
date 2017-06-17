@@ -4,6 +4,7 @@ title: Chasing Dead
 name: chasing_dead_jake
 img: Chasing Dead.png
 alt: image-alt
+date: 2016-04-1
 description: "There be zombies!"
 image_items: [
     {
