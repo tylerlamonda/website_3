@@ -4,7 +4,7 @@ title: Thesis Project
 name: thesis_project
 img: Thesis.png
 alt: image-alt
-date: 2016-07-21
+date: 2017-04-12
 description: "There be germs!"
 image_items: [
     {

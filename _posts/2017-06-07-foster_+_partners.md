@@ -4,7 +4,7 @@ title: Foster + Partners
 name: foster_+_partners
 img: Foster Tab 3.jpg
 alt: image-alt
-date: 2016-04-10
+date: 2017-04-14
 description: "There be architecture!"
 image_items: [
     {
