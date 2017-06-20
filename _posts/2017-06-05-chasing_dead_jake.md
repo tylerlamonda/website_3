@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Chasing Dead
+title: Chasing Dead - Jake
 name: chasing_dead_jake
 img: Chasing Dead.png
 alt: image-alt

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Chasing Dead
+title: Chasing Dead - Boss
 name: chasing_dead_boss
 date: 2017-04-18
 img: BossTab.png
