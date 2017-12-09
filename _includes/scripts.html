@@ -6,3 +6,10 @@
 <script src="{{ "/js/util.js" | prepend: site.baseurl }}"></script>
 <!--[if lte IE 8]><script src="{{ "/js/ie/respond.min.js" | prepend: site.baseurl }}"></script><![endif]-->
 <script src="{{ "/js/main.js" | prepend: site.baseurl }}"></script>
+<script>
+  // var vid = document.getElementById("video_reel");
+  // window.onload = function reduceVolume() {
+  //   vid.volume = 0.2;
+  // }
+  document.getElementsByTagName('video')[0].volume = 0.01;
+</script>
