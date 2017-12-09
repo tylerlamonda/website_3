@@ -21,7 +21,7 @@ layout: default
           {% endif %}
           {% if image_item.video != NULL %}
             <div align="center" class="embed-responsive embed-responsive-16by9">
-                <video class="embed-responsive-item" controls loop autoplay>
+                <video class="embed-responsive-item" controls>
                   <source src="{{ site.baseurl }}/videos/{{ page.name }}/{{ image_item.video }}" type="video/mp4">
                 Your browser does not support the video tag.
                 </video>
@@ -29,7 +29,7 @@ layout: default
           {% endif %}
           {% if image_item.youtube_video != NULL %}
             <div align"center" class="embed-responsive embed-responsive-16by9">
-            <iframe src="{{ image_item.youtube_video }}?&autoplay=1" frameborder="0" allowfullscreen autoplay></iframe>
+            <iframe src="{{ image_item.youtube_video }}" frameborder="0" allowfullscreen></iframe>
             </div> 
           {% endif %}
           <p>{{ image_item.description }}</p>
