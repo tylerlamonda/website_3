@@ -1,6 +1,7 @@
 ---
 layout: landing
 video_reel: reel_007.mp4
+video_link: "https://player.vimeo.com/video/244729509"
 reel_description: |
   TL 2016-17
 ---
@@ -19,11 +20,16 @@ reel_description: |
     <h2>Show Reel</h2>
     {% if page.video_reel != NULL %}
       <div align="center" class="embed-responsive embed-responsive-16by9">
-          <video class="embed-responsive-item" controls loop autoplay>
+          <video class="embed-responsive-item" controls>
             <source src="{{ site.baseurl }}/videos/reel/{{ page.video_reel }}" type="video/mp4">
           Your browser does not support the video tag.
           </video>
       </div>
+    {% endif %}
+    {% if page.video_link != NULL %}
+      <div align"center" class="embed-responsive embed-responsive-16by9">
+      <iframe src="{{ page.video_link }}" frameborder="0" allowfullscreen></iframe>
+      </div> 
     {% endif %}
     <p>{{ page.reel_description | markdownify }}</p>
 	</div>
