@@ -9,7 +9,7 @@ description: ""
 image_items: [
     {
         title: Matte Painting,
-        vimeo_video: "https://vimeo.com/250064589",
+        vimeo_video: "vimeo.com/250064589",
         description: "Painted in Photoshop, modeled in Maya, projected and comped in Nuke"
     },
     {
