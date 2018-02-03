@@ -3,14 +3,13 @@ layout: post
 title: Matte Painting
 date: 2017-04-24
 name: matte_paint
-img: best_fiends_tab.png
+img: matte_paint_tab.png
 alt: image-alt
-description: "There be slugs!"
+description: ""
 image_items: [
     {
-        title: best fiends,
-        video: Sequence 01_1.mp4,
-        description: "Cinematic Proposal"
+        vimeo_video: "https://vimeo.com/250064589",
+        description: ""
     },
     {
         img: SLG_0010_process_001.jpg,
