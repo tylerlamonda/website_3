@@ -8,6 +8,7 @@ alt: image-alt
 description: ""
 image_items: [
     {
+        title: Matte Painting,
         vimeo_video: "https://vimeo.com/250064589",
         description: ""
     },
