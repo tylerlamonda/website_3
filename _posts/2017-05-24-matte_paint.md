@@ -12,7 +12,7 @@ image_items: [
         description: "Painted in Photoshop, modeled in Maya, projected and comped in Nuke"
     },
     {
-        vimeo_video: "<iframe allowFullScreen frameborder="0" height="564" mozallowfullscreen src="https://player.vimeo.com/video/250064589" webkitAllowFullScreen width="640"></iframe>",
+        vimeo_video: "https://vimeo.com/250064589",
         description: ""
     },
     {
