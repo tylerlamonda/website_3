@@ -16,7 +16,7 @@ image_items: [
         description: ""
     },
     {
-        img: matte_paint_tab.png,
+        img: ass05_001_mp_f1001_v003.jpg,
         description: ""
     },
     
