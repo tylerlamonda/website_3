@@ -32,6 +32,11 @@ layout: default
             <iframe src="{{ image_item.youtube_video }}" frameborder="0" allowfullscreen></iframe>
             </div> 
           {% endif %}
+          {% if image_item.vimeo_video != NULL %}
+            <div align"center" class="embed-responsive embed-responsive-16by9">
+            <iframe src="{{ image_item.vimeo_video }}" frameborder="0" allowfullscreen></iframe>
+            </div>
+          {% endif %}
           <p>{{ image_item.description }}</p>
         </section>
       {% endfor %}
