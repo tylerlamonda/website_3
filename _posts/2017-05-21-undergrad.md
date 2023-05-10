@@ -2,10 +2,10 @@
 layout: post
 title: "2009-2011"
 name: undergrad
-date: 2017-04-10
+date: 2017-04-01
 img: 2009-2011.png
 alt: image-alt
-description: "There be Salt Flats!"
+description: "University of Utah"
 image_items: [
     {
         title: Salt Lake County Film and Media Center,

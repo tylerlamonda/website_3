@@ -4,8 +4,8 @@ title: Chasing Dead - Jake
 name: chasing_dead_jake
 img: Chasing Dead.png
 alt: image-alt
-date: 2017-04-20
-description: "There be zombies!"
+date: 2017-04-11
+description: "2020 Venture"
 image_items: [
     {
         title: Chasing dead - jake,

@@ -1,11 +1,11 @@
 ---
 layout: post
-title: Sledgehammer
+title: Soldier
 name: sledgehammer
 img: sh_tab.png
 alt: image-alt
-date: 2017-04-13
-description: "There be soldiers!"
+date: 2017-04-04
+description: "Sledgehammer"
 image_items: [
     {
         title: sledgehammer,
