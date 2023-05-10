@@ -29,7 +29,7 @@ image_items: [
         description: ""
     },
     {
-        img: Chasing Dead Screen Shot1.jpg,
+        img: ChasingDeadScreenShot1.jpg,
         description: ""
     },
     {
