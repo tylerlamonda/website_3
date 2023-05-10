@@ -27,23 +27,7 @@ image_items: [
     {
         img: CORE_03.png,
         description: ""
-    },
-    {
-        img: CORE_0.png,
-        description: ""
-    },
-    {
-        img: ,
-        description: ""
-    },
-    {
-        img: ,
-        description: ""
-    },
-    {
-        img: ,
-        description: ""
-    },
+    }
     
 ]
 ---
