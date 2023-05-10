@@ -2,10 +2,10 @@
 layout: post
 title: Chasing Dead - Boss
 name: chasing_dead_boss
-date: 2017-04-18
+date: 2017-04-09
 img: BossTab.png
 alt: image-alt
-description: "There be Zombies!"
+description: "2020 Venture"
 image_items: [
     {
         title: chasing dead - boss,

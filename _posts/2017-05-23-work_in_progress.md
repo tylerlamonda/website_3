@@ -2,10 +2,10 @@
 layout: post
 title: Work in Progress
 name: work_in_progress
-date: 2017-04-11
+date: 2017-04-02
 img: WIP.png
 alt: image-alt
-description: "There be Progress!"
+description: ""
 image_items: [
     {
         title: work in progress,

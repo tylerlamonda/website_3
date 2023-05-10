@@ -1,11 +1,11 @@
 ---
 layout: post
 title: Best Fiends
-date: 2017-04-23
+date: 2017-04-13
 name: best_fiends
 img: best_fiends_tab.png
 alt: image-alt
-description: "There be slugs!"
+description: "Whiskytree"
 image_items: [
     {
         title: best fiends,

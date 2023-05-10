@@ -4,13 +4,13 @@ title: Thesis Project
 name: thesis_project
 img: Thesis.png
 alt: image-alt
-date: 2017-04-12
-description: "There be germs!"
+date: 2017-04-03
+description: "Royal College of Art"
 image_items: [
     {
         title: quarantine deployment,
         img: QDA_1.png,
-        description: "Globalization has deteriorated over-all health through jet travel, modern medicine and ‘clean’ obsession. Antibiotics have become obsolete and deadly superbugs manifest in hospitals. Society is handicapped and more susceptible to the spread of disease. With the spread of afflictions imminent, how can an aggressive response to contagious diseases affect the immune system of London?
+        description: "Completed 2013 - Globalization has deteriorated over-all health through jet travel, modern medicine and ‘clean’ obsession. Antibiotics have become obsolete and deadly superbugs manifest in hospitals. Society is handicapped and more susceptible to the spread of disease. With the spread of afflictions imminent, how can an aggressive response to contagious diseases affect the immune system of London?
 Dropped in as an independent system providing all life support for infected persons, the quarantine deployment agency responds to contagious diseases. London’s parks become the possible sites for deployment centered on the source of contamination. The quarantine acts as a virus changing the urban topography of the park. It spreads, growing and expanding, mutating in response to the city’s needs. Completely independent of London; it is self-regulating, providing its own life support and infrastructure. The temporary plug-in nature of the facility allows for flexibility to integrate the infected populous. 
 Civil liberties are surrendered and all amiable rights are disbanded as infected individuals enter the facility. No longer an individual, the contagion itself becomes ones identity. The system supports life until the contagions destruction or its overtaking of the host resulting in death. The deployment agency maintains London’s immune system through a cleansing of the population. The life of the viral architecture is based on the occupant and in defending the city from further spread of disease it in fact destroys itself."
     },

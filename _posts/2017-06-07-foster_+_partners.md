@@ -1,11 +1,11 @@
 ---
 layout: post
-title: Foster + Partners
+title: Arch Visualization
 name: foster_+_partners
 img: Foster Tab 3.jpg
 alt: image-alt
-date: 2017-04-14
-description: "There be architecture!"
+date: 2017-04-05
+description: "Foster + Partners"
 image_items: [
     {
         title: COMCAST INNOVATION and TECHNOLOGY CENTER,
