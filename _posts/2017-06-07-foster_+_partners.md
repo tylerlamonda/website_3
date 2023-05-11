@@ -2,7 +2,7 @@
 layout: post
 title: Arch Visualization
 name: foster_+_partners
-img: Foster_Tab_3.jpg
+img: FosterTab3.jpg
 alt: image-alt
 date: 2017-04-05
 description: "Foster + Partners"
