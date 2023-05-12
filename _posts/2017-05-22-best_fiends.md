@@ -9,7 +9,7 @@ description: "Whiskytree"
 image_items: [
     {
         title: best fiends,
-        video: Sequence 01_1.mp4,
+        vimeo_video: https://player.vimeo.com/video/826026618,
         description: "Cinematic Proposal"
     },
     {

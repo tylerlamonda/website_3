@@ -25,7 +25,7 @@ image_items: [
         description: ""
     },
     {
-        video: P004_AT5.mp4,
+        vimeo_video: https://player.vimeo.com/video/826027258,
         description: ""
     },
     {
